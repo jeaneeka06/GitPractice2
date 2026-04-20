@@ -1,0 +1,5 @@
+git init
+git remote add orgin https://github.com/jeaneeka06/GitPractice2
+git add .
+git commit -m "commit message"
+git push --set-upstream origin master
